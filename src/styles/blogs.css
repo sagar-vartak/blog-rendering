@@ -1,0 +1,42 @@
+.btn {
+  width: 150px;
+  background-color: transparent;
+  border: 1px solid white;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: red;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+  z-index: 999;
+  position: fixed;
+}
+
+.btn:hover {
+  background-color: #4d84e2;
+  color: #fff;
+}
+.btn2 {
+  width: 150px;
+  background-color: #d1488d;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn2:hover {
+  background-color: #cf185e;
+}
+.scroll {
+  height: 80%;
+}

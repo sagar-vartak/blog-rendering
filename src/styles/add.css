@@ -1,0 +1,49 @@
+.container {
+  border: 5px solid black;
+  margin: 100px;
+  margin-top: 150px;
+  border-radius: 50px;
+}
+.mainDiv,
+html,
+body {
+  background-color: #6f5b8a;
+  height: 100vh;
+}
+.btn4 {
+  width: 150px;
+  background-color: #d1488d;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn4:hover {
+  background-color: #cf185e;
+}
+
+.btnz {
+  width: 150px;
+  background-color: #d1488d;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btnz:hover {
+  background-color: #cf185e;
+}
