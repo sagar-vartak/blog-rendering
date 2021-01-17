@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Backend
+
+The backend of the app is hosted here [https://frozen-falls-16952.herokuapp.com] - Backend has 4 request - The types of requests can be found in github repository mentioned below - If post request is made using postman select form-data in body as the site takes in an file i.e. an image - The repoisitory is here[https://github.com/sagar-vartak/blog-backend-imagerndering.git]
+
+### About This Project
+
+The app is created using React which is used to make a website that displays the blogs also gets the blog by an particular id
+
+React bootstrap is also used to display the blogs in a carousel
+
+Each Carousel has a link below which takes you to that particular blog so that user can read it fully
+
+A header and footer is present on the website with navigation links and footer icons
+
+A form is also present where the user can also add his/her particular blog and the carousel will be updated with the users posted blog
+
+### future scope
+
+- THis blog page can also be shown after an login authentication
+- The blog could also take number of images as per user
+- The Blog detail page can be styled as per user how he wants to display the blog
+
+### LIVE
+
+HOSted Live Link of APP[https://infallible-fermat-4224a1.netlify.app/]
